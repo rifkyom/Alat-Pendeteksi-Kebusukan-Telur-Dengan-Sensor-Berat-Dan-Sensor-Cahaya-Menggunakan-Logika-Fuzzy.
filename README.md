@@ -8,3 +8,9 @@
 
 # Alat dan Pengujian
 
+![image alt](https://github.com/rifkyom/Alat-Pendeteksi-Kebusukan-Telur-Dengan-Sensor-Berat-Dan-Sensor-Cahaya-Menggunakan-Logika-Fuzzy./blob/main/Alat%20dan%20Pengujian.png?raw=true)
+
+# Perancangan Kendali Fuzzy Logic
+
+
+
