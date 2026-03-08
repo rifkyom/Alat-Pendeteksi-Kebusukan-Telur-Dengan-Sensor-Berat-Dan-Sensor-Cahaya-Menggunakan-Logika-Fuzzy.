@@ -12,5 +12,7 @@
 
 # Perancangan Kendali Fuzzy Logic
 
+![image alt](https://github.com/rifkyom/Alat-Pendeteksi-Kebusukan-Telur-Dengan-Sensor-Berat-Dan-Sensor-Cahaya-Menggunakan-Logika-Fuzzy./blob/main/Perancangan%20Kendali%20Fuzzy%20Logic.png?raw=true)
+
 
 
